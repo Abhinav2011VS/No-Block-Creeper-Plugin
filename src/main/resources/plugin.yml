@@ -1,4 +1,4 @@
-name: No Block Creeper Plugin
+name: NoBlockCreeperPlugin
 version: '1.0'
 main: net.abhinav.nbcp.NoBlockCreeperPlugin
 api-version: '1.21'

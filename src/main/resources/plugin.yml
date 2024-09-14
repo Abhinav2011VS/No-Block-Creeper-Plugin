@@ -1,0 +1,6 @@
+name: No Block Creeper Plugin
+version: '1.0'
+main: net.abhinav.nbcp.NoBlockCreeperPlugin
+api-version: '1.21'
+load: STARTUP
+authors: [ Abhinav VS ]

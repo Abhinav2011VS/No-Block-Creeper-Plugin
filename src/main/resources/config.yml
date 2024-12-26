@@ -1,4 +1,13 @@
 # NoBlockCreeper Plugin Configuration
+# Configure the plugin to adjust creeper explosion behavior.
+
+# Enable or disable the visual explosion effect (true/false).
 visualEffect: true  # Set to false to disable the visual explosion effect
-explosionPower: 4.0  # The power of the explosion (0.0 to 100.0, adjust as needed)
-preventCreeperExplosions: true  # Set to true to prevent creeper explosions
+
+# The power of the explosion effect (from 0.0 to 100.0).
+# Higher values make the explosion effect bigger.
+explosionPower: 4.0  # Adjust to fit your preference (e.g., 0.0 for no visual effect)
+
+# Prevent creeper explosions from destroying blocks (true/false).
+# If set to true, creeper explosions will not damage or destroy blocks.
+preventCreeperExplosions: true  # Set to true to prevent block destruction by creepers
